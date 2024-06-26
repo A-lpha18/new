@@ -1,0 +1,32 @@
+*{
+    background-color: wheat;
+}
+
+
+a{
+    color: aquamarine;
+    background-color: brown;
+}
+
+
+button{
+    text-decoration: none;
+    color: aqua;
+    background-color: brown;
+    border: transparent;
+    border-radius: 8px;
+    
+}
+.top{
+    flex: 1;
+
+}
+.top:hover{
+    flex: 3;
+}
+
+#photo{
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 400px;
+}
